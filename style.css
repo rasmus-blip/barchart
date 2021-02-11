@@ -1,0 +1,11 @@
+.bar {
+    width: 20px;
+    background-color: black;
+    margin-left: 2px;
+    box-shadow: 3px, 3px, 3px;
+}
+
+#barContainer {
+    display: flex;
+    align-items: flex-end;
+}
